@@ -62,14 +62,14 @@ This function should only modify configuration layer settings."
      python
      djvu
      languagetool
-     themes-megapack
+     imenu-list
      chrome
      cmake
      docker
      systemd
      shell
+     shell-scripts
      multiple-cursors
-     org
      (shell :variables
             shell-default-height 30
             shell-default-position 'bottom)
